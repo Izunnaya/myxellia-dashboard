@@ -1,5 +1,6 @@
 import Listings from "./component/Listings";
-import Navbar from "./component/navbar/navbar";
+import Navbar from "./component/navbar/Navbar";
+
 import WelcomeBoard from "./component/welcomeBoard/WelcomeBoard";
 
 const App = () => {
