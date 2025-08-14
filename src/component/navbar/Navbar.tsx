@@ -2,7 +2,7 @@ const Navbar = () => {
   return (
     <>
       <div>
-        <div>logo</div>
+        <img></img>
         <div>Menu icons</div>
       </div>
       <div>Bottom Nav</div>
